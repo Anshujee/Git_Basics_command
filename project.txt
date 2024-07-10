@@ -4,4 +4,12 @@ Learn How to use Git and Git hub for DevOps.
 
 This file is written by me . 
 
+Some basic command of Git are --
 
+git init - to intialize the git .
+
+git add - just to add chnages -- git add . / git add file name 
+
+git status - to check status of Git .
+
+git commit -m " message"-- to commit the change means to take a picture of changes . 
