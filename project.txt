@@ -12,4 +12,9 @@ git add - just to add chnages -- git add . / git add file name
 
 git status - to check status of Git .
 
-git commit -m " message"-- to commit the change means to take a picture of changes . 
+git commit -m " message"-- to commit the change means to take a picture of changes .
+
+git log --- just to check the history of all changes. 
+
+git restore --staged file name --- // to remove the previous add without commit . 
+
