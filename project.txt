@@ -37,4 +37,10 @@ git remote add origin paste URL HERE.
 git branch -M main
 git branch -M master 
 
+-------------------------------------------------------------------------------
+
+git push -u origin master 
+
+
+
 
