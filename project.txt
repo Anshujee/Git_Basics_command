@@ -17,4 +17,24 @@ git commit -m " message"-- to commit the change means to take a picture of chang
 git log --- just to check the history of all changes. 
 
 git restore --staged file name --- // to remove the previous add without commit . 
-git reset -- git reset command is used to resotre the file if it is deleted by mistake. 
+git reset -- git reset command is used to resotre the file if it is deleted by mistake.
+
+git stash -- this command is used for storing changes some where back stage and we will call this chnage whenever we want. 
+
+git stash pop -- this command is used to pull the chnage from back stage to front side.
+
+git stash clear -- this command is used to delet the information which is present at back stage. 
+
+
+How to Attach your project to your GIT HUB account.
+----------------------------------------------------------------------
+For this we just go to the Git hub UI and create a repository then just copy the URL and by using command 
+
+git remote add origin paste URL HERE.
+
+----------------------------------------------------------------------------
+
+git branch -M main
+git branch -M master 
+
+
