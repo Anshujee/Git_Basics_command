@@ -17,4 +17,4 @@ git commit -m " message"-- to commit the change means to take a picture of chang
 git log --- just to check the history of all changes. 
 
 git restore --staged file name --- // to remove the previous add without commit . 
-
+git reset -- git reset command is used to resotre the file if it is deleted by mistake. 
