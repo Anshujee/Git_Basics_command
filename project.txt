@@ -41,6 +41,11 @@ git branch -M master
 
 git push -u origin master 
 
+----------------------------------------------------------------------------
+
+Branch in Git Hub 
 
 
-
+To create a Branch -- command used is 
+git branch Branch name
+------------------------------------------------
