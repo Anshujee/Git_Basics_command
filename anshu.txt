@@ -12,6 +12,11 @@ Hi All
 Now I know the steps to commit in main branch
 
 Step1 - first clone the repo by using command git clone (URL)
+step2 - copy the file and paste inside the clone folder .
+step3 - open the file change the file on the directory.
+step4 - then command git add .
+step5 - command git commit -m "message"
+step6 - command git push
 
 
 
