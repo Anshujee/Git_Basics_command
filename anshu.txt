@@ -1,0 +1,22 @@
+
+Hi All ,
+
+How are You and what is the problem. 
+
+why i can't push to main branch. 
+
+how to push in test branch
+
+Hi All
+
+Now I know the steps to commit in main branch
+
+Step1 - first clone the repo by using command git clone (URL)
+
+
+
+
+
+
+
+
