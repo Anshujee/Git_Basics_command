@@ -10,6 +10,12 @@ git init - to intialize the git .
 
 git add - just to add chnages -- git add . / git add file name 
 
+
+
+hii 
+
+ how r u 
+
 git status - to check status of Git .
 
 git commit -m " message"-- to commit the change means to take a picture of changes .
