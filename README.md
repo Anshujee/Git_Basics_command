@@ -1,1 +1,3 @@
-# Git_Basics_command
+# 
+
+HI i am trying to learn Git
